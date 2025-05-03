@@ -3,12 +3,12 @@
 Build Overview 
 -
 - Our clawbot is made up of many different parts, the first and the most obvious component is the claw. The claw can open and close and has a motor on the top of it so we could code the claw to grab the 3d printed blocks, its also connected to the arm. Additionally the motor for the arm is connected to port 7. 
-- Speaking of the arm, the arm of our clawbow is able to move up and down, this useful for grabbing things that are higher off the ground. It also has a motor attachted to it, which is the part that actually helps move the arm move up and down. The motor of the arm is connected to port 2.
+- Speaking of the arm, the arm of our clawbow is able to move up and down, this useful for grabbing things that are higher off the ground. It also has a motor attached to it, which is the part that actually helps move the arm move up and down. The motor of the arm is connected to port 2.
 - The rest of out bot is just the basic basebot, which includes the brain, motors that are conencted to the wheels, and many other different components.
 
 What Your Code Does 
 - 
-- Our code first starts off with the bot moving foward, stopping, grabbing the first top block on the stack, moving backwards as to not knock over the blocks and then doing a 180 rotation. After doing that, the bot drives to the stacking area and palaces the block inside the taped off area. The it goes backwards turna another 180 degrees drive forward picks up another block, but this time the first block on the bottom, moves  backwards does a 180 degree rotation, drives forward to the stacking area and then finally places the block it's holding on top of the block that was already placed ealier. Then the bot bot moves a bit backwards and does it final 180 rotaiton so that it is now facing the area where the remaining blocks are. 
+- Our code first starts off with the bot moving foward, stopping, grabbing the first top block on the stack, moving backwards as to not knock over the blocks and then doing a 180 rotation. After doing that, the bot drives to the stacking area and palaces the block inside the taped off area. The it goes backwards, turns another 180 degrees drive forward picks up another block, but this time the first block on the bottom. After, it moves backwards does a 180 degree rotation, drives forward to the stacking area and then finally places the block it's holding on top of the block that was already placed ealier. Then the bot moves a bit backwards and does it final 180 rotaiton so that it is now facing the area where the remaining blocks are. 
 
 Reflection On What Worked/ What Was Hard 
 -
