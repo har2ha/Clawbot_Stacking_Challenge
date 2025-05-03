@@ -12,12 +12,21 @@ What your code does
 
 Reflection on what worked / what was hard 
 -
-What Didn't Work                                                                      What Worked
-- Sadly, for us a lot of things went wrong, one of them                              - One thing that me and my partners found easy was most of the building up
-  was the fact that the shaft for our arm wasn't long                                  until the final steps. 
+
+What Worked
+- One thing that me and my partners found easy was most of the building up
+  until the final steps.
+  
+- Same thing for the coding, it was easy to do until we actually had to go
+  onto the mat and start testing what parts of our code didn't and did work.
+
+   
+What Didn't Work                                                                      
+- Sadly, for us a lot of things went wrong, one of them                              
+  was the fact that the shaft for our arm wasn't long                                  
   enough and therefore the arm wouldn't move up or        
-  down. And to get the shaft out we would have to unscrew                            - Same thing for the coding, it was easy to do until we actually had to go
-  and take apart everything in the vincinity of the claw.                               onto the mat and start testing what parts of our code didn't and did work. 
+  down. And to get the shaft out we would have to unscrew                        
+  and take apart everything in the vincinity of the claw.                               
   
 - Another thing that went wrong was the claw, the two red
   parts had gears on them which weren't touching and
