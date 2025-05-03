@@ -37,4 +37,4 @@ What Didn't Work
   to open and then close our claw the bot would ignore the first command and
   follow the second command of closing the arm. When we switched around the
   code to close the arm and then open it, the bot would again ignore the first
-  line of code and open the claw.                                                                                     -
+  line of code and open the claw.                                                                                     
