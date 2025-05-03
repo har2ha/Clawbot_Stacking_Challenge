@@ -8,10 +8,27 @@ Build overview
 
 What your code does 
 - 
-- Our code first starts off with the bot moving foward, stopping, grabbing the top block on the stack, moving backwards and then doing a 
--  Description of the project: The clawbot has many components such as the arm, and the claw. The clawbot consists of many pieces such as the shafts, gears, crank arms, screws, amd bolts. The first motor is in port 6, the second motor is in port 10. The motor for the claw is in port 1 and the motor for the arm is in port 3. The code of our bot is designed to go forward, pick up a cube, turn around, drive forward, place the cube down, and repeat that once more for another cube, and stack that cube on top of the previous one. So what worked for us building the clawbot and coding at one point. What did not work for us was that we found out that one of the shafts was not in the motor so that was affecting it and the crank arms used for the claw were not touching each other which wasn't making our claw work. Another thing that didn't work was the code because when we put spin claw open and close, it was only following the second command and wasn't working. To fix that problem my group put a line which was wait for 1 second, and then it worked.
-Port assignments 
-
-What your code does 
+- Our code first starts off with the bot moving foward, stopping, grabbing the first top block on the stack, moving backwards as to not knock over the blocks and then doing a 180 rotation. After doing that, the bot drives to the stacking area and palaces the block inside the taped off area. The it goes backwards turna another 180 degrees drive forward picks up another block, but this time the first block on the bottom, moves  backwards does a 180 degree rotation, drives forward to the stacking area and then finally places the block it's holding on top of the block that was already placed ealier. Then the bot bot moves a bit backwards and does it final 180 rotaiton so that it is now facing the area where the remaining blocks are. 
 
 Reflection on what worked / what was hard 
+-
+What Didn't Work                                                                      What Worked
+- Sadly, for us a lot of things went wrong, one of them                              - One thing that me and my partners found easy was most of the building up
+  was the fact that the shaft for our arm wasn't long                                  until the final steps. 
+  enough and therefore the arm wouldn't move up or        
+  down. And to get the shaft out we would have to unscrew                            - Same thing for the coding, it was easy to do until we actually had to go
+  and take apart everything in the vincinity of the claw.                               onto the mat and start testing what parts of our code didn't and did work. 
+  
+- Another thing that went wrong was the claw, the two red
+  parts had gears on them which weren't touching and
+  therefore the claw wouldn't open or close. Even worse
+  was the fact that to fix the problem we would again have
+  to basically have to take off the entire claw and rebuild
+  everything from sractch.
+  
+- The last major problem we faced was our code. When trying
+  to program our code to open and then close our claw the
+  bot would ignore the first command and follow the second
+  command of closing the arm. When we switched around the
+  code to close the arm and then open it, the bot would
+  again ignore the first line of code and open the claw.                                                                                     -
