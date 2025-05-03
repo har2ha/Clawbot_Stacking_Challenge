@@ -22,22 +22,19 @@ What Worked
 
    
 What Didn't Work                                                                      
-- Sadly, for us a lot of things went wrong, one of them                              
-  was the fact that the shaft for our arm wasn't long                                  
-  enough and therefore the arm wouldn't move up or        
-  down. And to get the shaft out we would have to unscrew                        
-  and take apart everything in the vincinity of the claw.                               
+- Sadly, for us a lot of things went wrong, one of them was the fact that
+  the shaft for our arm wasn't long enough and therefore the arm wouldn't
+  move up or down. And to get the shaft out we would have to unscrew and                       
+  take apart everything in the vincinity of the claw.                               
   
-- Another thing that went wrong was the claw, the two red
-  parts had gears on them which weren't touching and
-  therefore the claw wouldn't open or close. Even worse
-  was the fact that to fix the problem we would again have
-  to basically have to take off the entire claw and rebuild
-  everything from sractch.
+- Another thing that went wrong was the claw, the two red parts had gears
+  on them which weren't touching and therefore the claw wouldn't open or
+  close. Even worse was the fact that to fix the problem we would again have
+  to basically have to take off the entire claw and rebuild everything from
+  scratch.
   
-- The last major problem we faced was our code. When trying
-  to program our code to open and then close our claw the
-  bot would ignore the first command and follow the second
-  command of closing the arm. When we switched around the
-  code to close the arm and then open it, the bot would
-  again ignore the first line of code and open the claw.                                                                                     -
+- The last major problem we faced was our code. When trying to program our code
+  to open and then close our claw the bot would ignore the first command and
+  follow the second command of closing the arm. When we switched around the
+  code to close the arm and then open it, the bot would again ignore the first
+  line of code and open the claw.                                                                                     -
